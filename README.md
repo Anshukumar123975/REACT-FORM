@@ -1,6 +1,6 @@
-# React + Vite
+# REACR-FORM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A FORM MADE WITH REACT, TAILWIND AND VITE
 
 Currently, two official plugins are available:
 
