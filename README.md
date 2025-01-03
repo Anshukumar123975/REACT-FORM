@@ -1,6 +1,6 @@
 # REACR-FORM
 
-A FORM MADE WITH REACT, TAILWIND AND VITE
+A FORM MADE WITH REACT, TAILWIND AND VITE.
 
 Currently, two official plugins are available:
 
